@@ -1,1 +1,1 @@
-# Learning-with-a-teacher
+# Проекты в Практикуме
